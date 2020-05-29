@@ -1,0 +1,156 @@
+{
+  "books": [
+      {
+        "title": "Ancient and Modern Celebrated Freethinkers",
+        "author":"Charles BRADLAUGH",
+        "chaptercount":8,
+        "chapterurls": [
+                          "https://ia800302.us.archive.org/1/items/ancient_modern_celebrated_freethinkers_1503_librivox/celebratedfreethinkers_00_bradlaugh_64kb.mp3",
+                          "www.archive.org/download/ancient_modern_celebrated_freethinkers_1503_librivox/celebratedfreethinkers_01_bradlaugh_64kb.mp3",
+                          "http://www.archive.org/download/ancient_modern_celebrated_freethinkers_1503_librivox/celebratedfreethinkers_02_bradlaugh_64kb.mp3",
+                          "http://www.archive.org/download/ancient_modern_celebrated_freethinkers_1503_librivox/celebratedfreethinkers_03_bradlaugh_64kb.mp3",
+                          "http://www.archive.org/download/ancient_modern_celebrated_freethinkers_1503_librivox/celebratedfreethinkers_04_bradlaugh_64kb.mp3",
+                          "http://www.archive.org/download/ancient_modern_celebrated_freethinkers_1503_librivox/celebratedfreethinkers_05_bradlaugh_64kb.mp3",
+                          "http://www.archive.org/download/ancient_modern_celebrated_freethinkers_1503_librivox/celebratedfreethinkers_06_bradlaugh_64kb.mp3",
+                          "http://www.archive.org/download/ancient_modern_celebrated_freethinkers_1503_librivox/celebratedfreethinkers_07_bradlaugh_64kb.mp3"
+                          
+                      
+                    ]
+      },
+      
+      {
+        "title": "Anthropology",
+        "author":"Immanuel KANT",
+        "chaptercount":5,
+        "chapterurls":[
+          "http://www.archive.org/download/anthropology_kant_1702_librivox/anthropology_01_kant_64kb.mp3",
+          "http://www.archive.org/download/anthropology_kant_1702_librivox/anthropology_02_kant_64kb.mp3",
+          "http://www.archive.org/download/anthropology_kant_1702_librivox/anthropology_03_kant_64kb.mp3",
+          "http://www.archive.org/download/anthropology_kant_1702_librivox/anthropology_04_kant_64kb.mp3",
+          "http://www.archive.org/download/anthropology_kant_1702_librivox/anthropology_05_kant_64kb.mp3"
+          ]
+      },
+        {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "chapterurls":[
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_1_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_2_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_3_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_4_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_5_rossiter_64kb.mp3"
+          
+          ]},
+
+      {
+        "title": "The Book of Good Counsels - From the Sanskrit of the hitopadesa",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "chapterurls": [
+          "https://archive.org/download/bookofgoodcounsels_1506_librivox/bookofgoodcounsels_00_arnold_64kb.mp3",
+          "https://archive.org/download/bookofgoodcounsels_1506_librivox/bookofgoodcounsels_01_arnold_64kb.mp3",
+          "https://archive.org/download/bookofgoodcounsels_1506_librivox/bookofgoodcounsels_02_arnold_64kb.mp3",
+          "https://archive.org/download/bookofgoodcounsels_1506_librivox/bookofgoodcounsels_03_arnold_64kb.mp3",
+          "https://archive.org/download/bookofgoodcounsels_1506_librivox/bookofgoodcounsels_04_arnold_64kb.mp3"
+          ]
+      },
+      
+      {
+        "title": "The Citizen's Almanac",
+        "author":null,
+        "chaptercount":5,
+        "chapterurls": [
+          "http://www.archive.org/download/thecitizensalmanacoftheunitedstates_1801_librivox/citizensalmanac_01_anonymous_64kb.mp3",
+          "http://www.archive.org/download/thecitizensalmanacoftheunitedstates_1801_librivox/citizensalmanac_02_anonymous_64kb.mp3",
+          "http://www.archive.org/download/thecitizensalmanacoftheunitedstates_1801_librivox/citizensalmanac_03_anonymous_64kb.mp3",
+          "http://www.archive.org/download/thecitizensalmanacoftheunitedstates_1801_librivox/citizensalmanac_04_anonymous_64kb.mp3",
+          "http://www.archive.org/download/thecitizensalmanacoftheunitedstates_1801_librivox/citizensalmanac_05_anonymous_64kb.mp3"
+          ]
+      },
+      
+      {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "chapterurls":[
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_1_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_2_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_3_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_4_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_5_rossiter_64kb.mp3"
+          
+          ]},
+          
+          {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "chapterurls":[
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_1_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_2_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_3_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_4_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_5_rossiter_64kb.mp3"
+          
+          ]},
+          
+          {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "chapterurls":[
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_1_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_2_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_3_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_4_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_5_rossiter_64kb.mp3"
+          
+          ]},
+          
+          {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "chapterurls":[
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_1_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_2_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_3_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_4_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_5_rossiter_64kb.mp3"
+          
+          ]},
+          
+          {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "chapterurls":[
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_1_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_2_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_3_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_4_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_5_rossiter_64kb.mp3"
+          
+          ]},
+          
+          {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "chapterurls":[
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_1_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_2_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_3_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_4_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_5_rossiter_64kb.mp3"
+          
+          ]},
+          
+          {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "chapterurls":[
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_1_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_2_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_3_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_4_rossiter_64kb.mp3",
+          "http://www.archive.org/download/art_of_kissing_1512_librivox/artofkissing_5_rossiter_64kb.mp3"
+          
+          ]}
+    
+    ]
+}
