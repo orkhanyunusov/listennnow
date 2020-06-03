@@ -1,0 +1,71 @@
+{
+  "books": [
+      {
+        "title": "Ancient and Modern Celebrated Freethinkers",
+        "author":"Charles BRADLAUGH",
+        "chaptercount":8,
+        "bookId":"bk1.json"
+      },
+      
+      {
+        "title": "Anthropology",
+        "author":"Immanuel KANT",
+        "chaptercount":5,
+        "bookId":"bk2.json"
+      },
+        {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "bookId":"bk3.json"},
+
+      {
+        "title": "The Book of Good Counsels - From the Sanskrit of the hitopadesa",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "bookId":"bk4.json"
+      },
+      
+      {
+        "title": "The Citizen's Almanac",
+        "author":null,
+        "chaptercount":5,
+        "bookId":"bk5.json"
+      },
+      
+      {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "bookId":"bk3.json"},
+          
+          {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "bookId":"bk3.json"},
+          
+          {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "bookId":"bk3.json"},
+          
+          {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "bookId":"bk3.json"},
+          
+          {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "bookId":"bk3.json"},
+          
+          {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "bookId":"bk3.json"},
+          
+          {"title": "The Art of Kissing",
+        "author":"Will ROSSITER",
+        "chaptercount":5,
+        "bookId":"bk3.json"}
+    
+    ]
+}
